@@ -22,8 +22,7 @@ I aim to contribute meaningfully to the tech industry by creating solutions that
 
 ### Tools & Technologies  
 - Python Libraries: Pandas, NumPy, scikit-learn, Plotly  
-- Microprocessors: 8085 programming, QEMU  
-- Cybersecurity: NTRU implementation with bit manipulation for constant-time execution  
+- Cybersecurity
 - Machine Learning: KNN, PCA, and predictive analytics  
 
 ---
