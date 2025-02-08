@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Mohammad+Oyaiss;A+Passionate+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Mohammad+Owais;A+Passionate+Developer" />
 </div>
 
 # 💫 About Me
