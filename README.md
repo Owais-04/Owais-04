@@ -46,11 +46,6 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-# 🏆 Achievements
-- 🥇 Certified Python Programmer
-- 🎯 Web Development Bootcamp Graduate
-- 🏆 Inter-college Hackathon Winner
-- 📚 Machine Learning Specialization Complete
 
 # 🔬 Research Interests
 - Machine Learning Applications in Engineering
