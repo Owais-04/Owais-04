@@ -2,7 +2,7 @@
   
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="600" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Mohammad+Oyaiss;A+Passionate+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Mohammad+Owais;A+Passionate+Developer" />
 </div>
 
 
