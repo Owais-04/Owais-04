@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Mohammad+Owais;A+Passionate+Developer" />
+  
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="600" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Mohammad+Oyaiss;A+Passionate+Developer" />
+</div>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=I+am+the+one+who+codes!" />
 </div>
 
 # 💫 About Me
@@ -38,6 +46,12 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+# 🏆 Achievements
+- 🥇 Certified Python Programmer
+- 🎯 Web Development Bootcamp Graduate
+- 🏆 Inter-college Hackathon Winner
+- 📚 Machine Learning Specialization Complete
+
 # 🔬 Research Interests
 - Machine Learning Applications in Engineering
 - Cybersecurity & Cryptography
@@ -46,8 +60,8 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owais-04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Owais-04&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Owais-04&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Owais-04&theme=dark" alt="GitHub Streak" />
 </div>
 
 # 🤝 Connect With Me
@@ -58,10 +72,19 @@
   <a href="https://github.com/Owais-04">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
 </div>
 
 ---
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Owais-04&color=blueviolet&style=flat-square&label=Profile+Views" />
