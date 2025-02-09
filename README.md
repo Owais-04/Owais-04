@@ -13,7 +13,6 @@ Welcome to my GitHub page! I am Mohammad Owais, currently pursuing a B.Tech in I
 - Enhancing my skills in Web Development and Data Science
 - Exploring Machine Learning and Advanced Web Technologies
 
-
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Owais-04&show_icons=true&hide_border=true" />
@@ -31,4 +30,4 @@ Welcome to my GitHub page! I am Mohammad Owais, currently pursuing a B.Tech in I
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[owais](#) for the wonderful [image](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)</sub>
+<sub>Credits to: <br/>[Your Name](#) for the wonderful [image](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)</sub>
