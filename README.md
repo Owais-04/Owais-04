@@ -30,4 +30,4 @@ Welcome to my GitHub page! I am Mohammad Owais, currently pursuing a B.Tech in I
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[Unsplash](https://unsplash.com/photos/1K8g8g8g8g8) for the wonderful [image](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGNvZGluZ3xlbnwwfHx8fDE2ODI3MjY0MjM&ixlib=rb-4.0.3&q=80&w=400)</sub>
+<sub>Credits to: <br/>[Unsplash](https://unsplash.com/photos/1K8g8g8g8g8) for the wonderful [image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fchurchlifejournal.nd.edu%2Farticles%2Fbadly-broken-a-spoiler-free-analysis-of-breaking-bad-as-a-deeply-human-drama%2F&psig=AOvVaw2lfgt13VZEgsORPW2Y08AU&ust=1739174266903000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDbqZmPtosDFQAAAAAdAAAAABAR)</sub>
