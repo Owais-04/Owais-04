@@ -7,7 +7,7 @@
 
 Welcome to my GitHub page! I am Mohammad Owais, currently pursuing a B.Tech in Information Technology at **NIT Srinagar**.
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%" height="auto" />
+<img align="right" alt="Coding" src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGNvZGluZ3xlbnwwfHx8fDE2ODI3MjY0MjM&ixlib=rb-4.0.3&q=80&w=400" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Enhancing my skills in Web Development and Data Science
@@ -30,4 +30,4 @@ Welcome to my GitHub page! I am Mohammad Owais, currently pursuing a B.Tech in I
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[Your Name](#) for the wonderful [image](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)</sub>
+<sub>Credits to: <br/>[Unsplash](https://unsplash.com/photos/1K8g8g8g8g8) for the wonderful [image](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGNvZGluZ3xlbnwwfHx8fDE2ODI3MjY0MjM&ixlib=rb-4.0.3&q=80&w=400)</sub>
