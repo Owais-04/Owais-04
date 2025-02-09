@@ -2,26 +2,25 @@
   
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="600" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Mohammad+Owais;A+Passionate+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hello+there!+👋;I'm+Mohammad+Owais;Your+Passionate+Developer" />
 </div>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=I+am+the+one+who+codes!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Crafting+Code+with+Passion!" />
 </div>
 
 # 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 Currently pursuing B.Tech in Information Technology at **NIT Srinagar**
+🎓 Currently pursuing a B.Tech in Information Technology at **NIT Srinagar**.
 
-💻 Passionate about Web Development, Data Science & Cybersecurity
+💻 Enthusiast in Web Development, Data Science, and Cybersecurity.
 
-🔭 Working on enhancing my problem-solving skills
+🔭 Focused on sharpening my problem-solving abilities.
 
-🌱 Currently exploring Machine Learning & Advanced Web Technologies
+🌱 Exploring Machine Learning and Advanced Web Technologies.
 
-⚡ Fun fact: I debug with coffee ☕
+⚡ Fun fact: I fuel my coding sessions with coffee ☕
 
 <br>
 
@@ -46,20 +45,13 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-
-# 🔬 Research Interests
-- Machine Learning Applications in Engineering
-- Cybersecurity & Cryptography
-- Data Analysis & Visualization
-- Web Application Security
-
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Owais-04&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Owais-04&theme=dark" alt="GitHub Streak" />
 </div>
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect!
 <div align="center">
   <a href="mailto:oyaissussman04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -71,11 +63,9 @@
 
 ---
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
